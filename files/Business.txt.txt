@@ -1,0 +1,13 @@
+Each candidate can visit the Employee Recruitment System 
+	  
+      - Administrators should be able to add, update, and delete Candidate records.
+	  
+      - Candidate record should include details such as id,Name,Address,Adhar_Card,Photo,date,job_id
+	  
+      - The system should store and display Candidate photos, if available.
+	  
+	  - Send email to the registered candidates by registerid and Name of the candidate
+	  
+	  - Candidate can login using email and password
+	  
+	  - candidate can change address only after registered
